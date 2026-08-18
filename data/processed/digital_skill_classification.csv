@@ -1,0 +1,836 @@
+O*NET-SOC Code,Title,Workplace Example,Element Name,Hot Technology,In Demand,Skill_Category
+11-1011.00,Chief Executives,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-1011.03,Chief Sustainability Officers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+11-1011.03,Chief Sustainability Officers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-1021.00,General and Operations Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-1021.00,General and Operations Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+11-1021.00,General and Operations Managers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+11-1021.00,General and Operations Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-1021.00,General and Operations Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-1031.00,Legislators,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-1031.00,Legislators,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-2011.00,Advertising and Promotions Managers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+11-2011.00,Advertising and Promotions Managers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+11-2011.00,Advertising and Promotions Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,MySQL,Data base user interface and query software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+11-2021.00,Marketing Managers,NoSQL,Data base management system software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+11-2021.00,Marketing Managers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+11-2021.00,Marketing Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-2022.00,Sales Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-2022.00,Sales Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+11-2022.00,Sales Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-2022.00,Sales Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-3013.01,Security Managers,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+11-3013.01,Security Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,Microsoft SQL Server Reporting Services SSRS,Object or component oriented development software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,MySQL,Data base user interface and query software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,NoSQL,Data base management system software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3021.00,Computer and Information Systems Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-3031.00,Financial Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3031.00,Financial Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3031.00,Financial Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-3031.01,Treasurers and Controllers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3031.03,Investment Fund Managers,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+11-3031.03,Investment Fund Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3031.03,Investment Fund Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-3051.01,Quality Control Systems Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3051.01,Quality Control Systems Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3051.06,Hydroelectric Production Managers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+11-3051.06,Hydroelectric Production Managers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+11-3071.00,"Transportation, Storage, and Distribution Managers",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3071.00,"Transportation, Storage, and Distribution Managers",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3071.04,Supply Chain Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3071.04,Supply Chain Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-3111.00,Compensation and Benefits Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-3111.00,Compensation and Benefits Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,MySQL,Data base management system software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,NoSQL,Data base management system software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+11-9041.00,Architectural and Engineering Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Microsoft SQL Server Reporting Services SSRS,Object or component oriented development software,Y,N,Data Analytics
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+11-9111.00,Medical and Health Services Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+11-9111.00,Medical and Health Services Managers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+11-9111.00,Medical and Health Services Managers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+11-9111.00,Medical and Health Services Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9111.00,Medical and Health Services Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-9121.00,Natural Sciences Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9121.01,Clinical Research Coordinators,Python,Object or component oriented development software,Y,N,Data Analytics
+11-9121.02,Water Resource Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9199.01,Regulatory Affairs Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9199.01,Regulatory Affairs Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+11-9199.02,Compliance Managers,Data analysis software,Analytical or scientific software,N,N,Data Analytics
+11-9199.08,Loss Prevention Managers,MySQL,Data base user interface and query software,Y,N,Data Analytics
+11-9199.08,Loss Prevention Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Microsoft SQL Server Reporting Services SSRS,Object or component oriented development software,Y,N,Data Analytics
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+11-9199.11,Brownfield Redevelopment Specialists and Site Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1041.06,Coroners,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+13-1041.06,Coroners,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1041.06,Coroners,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1041.07,Regulatory Affairs Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1041.07,Regulatory Affairs Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-1041.07,Regulatory Affairs Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1071.00,Human Resources Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1071.00,Human Resources Specialists,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+13-1071.00,Human Resources Specialists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1081.00,Logisticians,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1081.00,Logisticians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1081.01,Logistics Engineers,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1081.01,Logistics Engineers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+13-1081.01,Logistics Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+13-1081.01,Logistics Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1081.01,Logistics Engineers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1081.02,Logistics Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1081.02,Logistics Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1081.02,Logistics Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-1081.02,Logistics Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1082.00,Project Management Specialists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1111.00,Management Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1111.00,Management Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1111.00,Management Analysts,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+13-1111.00,Management Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+13-1111.00,Management Analysts,MySQL,Data base user interface and query software,Y,N,Data Analytics
+13-1111.00,Management Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-1111.00,Management Analysts,NoSQL,Data base management system software,Y,N,Data Analytics
+13-1111.00,Management Analysts,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+13-1111.00,Management Analysts,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+13-1111.00,Management Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+13-1111.00,Management Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-1111.00,Management Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1111.00,Management Analysts,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1131.00,Fundraisers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1141.00,"Compensation, Benefits, and Job Analysis Specialists",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1151.00,Training and Development Specialists,MySQL,Data base management system software,Y,N,Data Analytics
+13-1151.00,Training and Development Specialists,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+13-1161.00,Market Research Analysts and Marketing Specialists,Data analysis software,Analytical or scientific software,N,N,Data Analytics
+13-1161.00,Market Research Analysts and Marketing Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1161.00,Market Research Analysts and Marketing Specialists,MySQL,Data base user interface and query software,Y,N,Data Analytics
+13-1161.00,Market Research Analysts and Marketing Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-1161.00,Market Research Analysts and Marketing Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1161.00,Market Research Analysts and Marketing Specialists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1161.01,Search Marketing Strategists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1161.01,Search Marketing Strategists,MySQL,Data base management system software,Y,N,Data Analytics
+13-1161.01,Search Marketing Strategists,Python,Object or component oriented development software,Y,Y,Data Analytics
+13-1161.01,Search Marketing Strategists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1161.01,Search Marketing Strategists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-1199.04,Business Continuity Planners,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1199.04,Business Continuity Planners,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1199.05,Sustainability Specialists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1199.05,Sustainability Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1199.05,Sustainability Specialists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-1199.06,Online Merchants,Bing for Power BI,Data mining software,N,N,Data Analytics
+13-1199.06,Online Merchants,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-1199.06,Online Merchants,MySQL,Data base management system software,Y,N,Data Analytics
+13-1199.06,Online Merchants,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-1199.07,Security Management Specialists,CyberArk,Network security or virtual private network VPN management software,N,N,Cybersecurity
+13-1199.07,Security Management Specialists,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+13-1199.07,Security Management Specialists,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity
+13-1199.07,Security Management Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-1199.07,Security Management Specialists,Security assertion markup language SAML,Web platform development software,N,N,Cybersecurity
+13-1199.07,Security Management Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2011.00,Accountants and Auditors,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2011.00,Accountants and Auditors,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-2011.00,Accountants and Auditors,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2011.00,Accountants and Auditors,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+13-2031.00,Budget Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2031.00,Budget Analysts,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2041.00,Credit Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2041.00,Credit Analysts,Python,Object or component oriented development software,Y,N,Data Analytics
+13-2041.00,Credit Analysts,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2051.00,Financial and Investment Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2051.00,Financial and Investment Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2051.00,Financial and Investment Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+13-2051.00,Financial and Investment Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-2051.00,Financial and Investment Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2052.00,Personal Financial Advisors,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2052.00,Personal Financial Advisors,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2054.00,Financial Risk Specialists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2054.00,Financial Risk Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2054.00,Financial Risk Specialists,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+13-2054.00,Financial Risk Specialists,Python,Object or component oriented development software,Y,Y,Data Analytics
+13-2054.00,Financial Risk Specialists,PyTorch,Data base user interface and query software,Y,N,AI
+13-2054.00,Financial Risk Specialists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-2054.00,Financial Risk Specialists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2054.00,Financial Risk Specialists,TensorFlow,Analytical or scientific software,Y,N,AI
+13-2061.00,Financial Examiners,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+13-2081.00,"Tax Examiners and Collectors, and Revenue Agents",Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+13-2099.01,Financial Quantitative Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+13-2099.01,Financial Quantitative Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2099.01,Financial Quantitative Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+13-2099.01,Financial Quantitative Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-2099.01,Financial Quantitative Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+13-2099.04,"Fraud Examiners, Investigators and Analysts",NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Python,Object or component oriented development software,Y,N,Data Analytics
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1211.00,Computer Systems Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,MySQL,Data base management system software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1211.00,Computer Systems Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1211.00,Computer Systems Analysts,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1211.00,Computer Systems Analysts,Security testing software,Program testing software,N,N,Cybersecurity
+15-1211.00,Computer Systems Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1211.00,Computer Systems Analysts,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1211.00,Computer Systems Analysts,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1211.01,Health Informatics Specialists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1211.01,Health Informatics Specialists,Microsoft SQL Server Reporting Services SSRS,Object or component oriented development software,Y,N,Data Analytics
+15-1211.01,Health Informatics Specialists,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1211.01,Health Informatics Specialists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1211.01,Health Informatics Specialists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1212.00,Information Security Analysts,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1212.00,Information Security Analysts,IBM QRadar SIEM,Network monitoring software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Juniper Networks NetScreen-Security Manager,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,MySQL,Data base management system software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Network security auditing software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Penetration testing software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1212.00,Information Security Analysts,Security incident management software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Security risk assessment software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1212.00,Information Security Analysts,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1212.00,Information Security Analysts,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,MySQL,Data base management system software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1221.00,Computer and Information Research Scientists,PyTorch,Data base user interface and query software,Y,Y,AI
+15-1221.00,Computer and Information Research Scientists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1221.00,Computer and Information Research Scientists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1221.00,Computer and Information Research Scientists,TensorFlow,Analytical or scientific software,Y,Y,AI
+15-1221.00,Computer and Information Research Scientists,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1231.00,Computer Network Support Specialists,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1231.00,Computer Network Support Specialists,IBM Security Network Intrusion Prevention System,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1231.00,Computer Network Support Specialists,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1231.00,Computer Network Support Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1231.00,Computer Network Support Specialists,MySQL,Data base management system software,Y,N,Data Analytics
+15-1231.00,Computer Network Support Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1231.00,Computer Network Support Specialists,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1231.00,Computer Network Support Specialists,Security incident management software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1231.00,Computer Network Support Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1232.00,Computer User Support Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1232.00,Computer User Support Specialists,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1232.00,Computer User Support Specialists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1232.00,Computer User Support Specialists,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1241.00,Computer Network Architects,Internet Protocol Security IPSEC,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,MySQL,Data base management system software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Penetration testing software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1241.00,Computer Network Architects,Security incident management software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1241.00,Computer Network Architects,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1241.00,Computer Network Architects,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1241.00,Computer Network Architects,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1241.01,Telecommunications Engineering Specialists,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1241.01,Telecommunications Engineering Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1241.01,Telecommunications Engineering Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1241.01,Telecommunications Engineering Specialists,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1241.01,Telecommunications Engineering Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1242.00,Database Administrators,Database security software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1242.00,Database Administrators,Micosoft SQL Server Analysis Services SSAS,Business intelligence and data analysis software,N,N,Data Analytics
+15-1242.00,Database Administrators,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Microsoft SQL Server,Data base user interface and query software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1242.00,Database Administrators,MySQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1242.00,Database Administrators,NoSQL,Data base management system software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Oracle PL/SQL,Data base management system software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-1242.00,Database Administrators,PostgreSQL,Object oriented data base management software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Redgate SQL Server,Administration software,N,N,Data Analytics
+15-1242.00,Database Administrators,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1242.00,Database Administrators,Transact-SQL,Object oriented data base management software,Y,Y,Data Analytics
+15-1243.00,Database Architects,Data Recovery Software SQL Server Data Recovery,Backup or archival software,N,N,Data Analytics
+15-1243.00,Database Architects,Database security software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1243.00,Database Architects,Micosoft SQL Server Analysis Services SSAS,Business intelligence and data analysis software,N,N,Data Analytics
+15-1243.00,Database Architects,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1243.00,Database Architects,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1243.00,Database Architects,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1243.00,Database Architects,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1243.00,Database Architects,MySQL,Data base management system software,Y,N,Data Analytics
+15-1243.00,Database Architects,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1243.00,Database Architects,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1243.00,Database Architects,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1243.00,Database Architects,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-1243.00,Database Architects,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1243.00,Database Architects,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1243.00,Database Architects,Redgate SQL Server,Administration software,N,N,Data Analytics
+15-1243.00,Database Architects,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1243.00,Database Architects,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1243.00,Database Architects,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1243.01,Data Warehousing Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1243.01,Data Warehousing Specialists,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1243.01,Data Warehousing Specialists,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1243.01,Data Warehousing Specialists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1243.01,Data Warehousing Specialists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-1243.01,Data Warehousing Specialists,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1244.00,Network and Computer Systems Administrators,Intrusion prevention system IPS,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1244.00,Network and Computer Systems Administrators,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,MySQL,Data base management system software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1244.00,Network and Computer Systems Administrators,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1244.00,Network and Computer Systems Administrators,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Security incident management software,Network security or virtual private network VPN management software,N,N,Cybersecurity
+15-1244.00,Network and Computer Systems Administrators,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Microsoft SQL Server,Data base user interface and query software,Y,Y,Data Analytics
+15-1251.00,Computer Programmers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1251.00,Computer Programmers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1251.00,Computer Programmers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1251.00,Computer Programmers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1251.00,Computer Programmers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1252.00,Software Developers,Data analysis software,Analytical or scientific software,N,N,Data Analytics
+15-1252.00,Software Developers,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+15-1252.00,Software Developers,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1252.00,Software Developers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1252.00,Software Developers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1252.00,Software Developers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1252.00,Software Developers,Microsoft transact-structural query language T-SQL,Data base management system software,N,N,Data Analytics
+15-1252.00,Software Developers,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-1252.00,Software Developers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1252.00,Software Developers,NoSQL,Data base management system software,Y,Y,Data Analytics
+15-1252.00,Software Developers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1252.00,Software Developers,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-1252.00,Software Developers,PostgreSQL,Object oriented data base management software,Y,Y,Data Analytics
+15-1252.00,Software Developers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1252.00,Software Developers,PyTorch,Data base user interface and query software,Y,N,AI
+15-1252.00,Software Developers,Security testing software,Program testing software,N,N,Cybersecurity
+15-1252.00,Software Developers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1252.00,Software Developers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1252.00,Software Developers,TensorFlow,Analytical or scientific software,Y,N,AI
+15-1252.00,Software Developers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Data analysis software,Analytical or scientific software,N,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+15-1253.00,Software Quality Assurance Analysts and Testers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Microsoft transact-structural query language T-SQL,Data base management system software,N,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1253.00,Software Quality Assurance Analysts and Testers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Security testing software,Program testing software,N,N,Cybersecurity
+15-1253.00,Software Quality Assurance Analysts and Testers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1253.00,Software Quality Assurance Analysts and Testers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1254.00,Web Developers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1254.00,Web Developers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1254.00,Web Developers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1254.00,Web Developers,MySQL,Data base management system software,Y,Y,Data Analytics
+15-1254.00,Web Developers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1254.00,Web Developers,NoSQL,Data base management system software,Y,Y,Data Analytics
+15-1254.00,Web Developers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1254.00,Web Developers,PostgreSQL,Object oriented data base management software,Y,Y,Data Analytics
+15-1254.00,Web Developers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1254.00,Web Developers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1254.00,Web Developers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1254.00,Web Developers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1255.00,Web and Digital Interface Designers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1255.00,Web and Digital Interface Designers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1255.01,Video Game Designers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1255.01,Video Game Designers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1255.01,Video Game Designers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1255.01,Video Game Designers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.01,Web Administrators,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+15-1299.01,Web Administrators,Juniper Networks NetScreen-Security Manager,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+15-1299.01,Web Administrators,Microsoft SQL Server,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.01,Web Administrators,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.01,Web Administrators,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1299.01,Web Administrators,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1299.01,Web Administrators,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1299.02,Geographic Information Systems Technologists and Technicians,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.03,Document Management Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1299.03,Document Management Specialists,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-1299.04,Penetration Testers,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1299.04,Penetration Testers,IBM QRadar SIEM,Network monitoring software,N,N,Cybersecurity
+15-1299.04,Penetration Testers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1299.04,Penetration Testers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.04,Penetration Testers,Security assertion markup language SAML,Web platform development software,N,N,Cybersecurity
+15-1299.04,Penetration Testers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.05,Information Security Engineers,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1299.05,Information Security Engineers,IBM QRadar SIEM,Network monitoring software,N,N,Cybersecurity
+15-1299.05,Information Security Engineers,McAfee Enterprise Security Manager,Risk management data and analysis software,N,N,Cybersecurity
+15-1299.05,Information Security Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1299.05,Information Security Engineers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1299.05,Information Security Engineers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1299.05,Information Security Engineers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1299.05,Information Security Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.05,Information Security Engineers,Security assertion markup language SAML,Web platform development software,N,N,Cybersecurity
+15-1299.05,Information Security Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.06,Digital Forensics Analysts,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1299.06,Digital Forensics Analysts,IBM QRadar SIEM,Network monitoring software,N,N,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.06,Digital Forensics Analysts,Security assertion markup language SAML,Web platform development software,N,N,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.07,Blockchain Engineers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1299.07,Blockchain Engineers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1299.07,Blockchain Engineers,PostgreSQL,Object oriented data base management software,Y,Y,Data Analytics
+15-1299.07,Blockchain Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.07,Blockchain Engineers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Firewall software,Network security and virtual private network VPN equipment software,N,Y,Cybersecurity
+15-1299.08,Computer Systems Engineers/Architects,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,MySQL,Data base management system software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Network intrusion prevention systems NIPS,Network monitoring software,N,N,Cybersecurity
+15-1299.08,Computer Systems Engineers/Architects,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1299.08,Computer Systems Engineers/Architects,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1299.08,Computer Systems Engineers/Architects,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,MySQL,Data base management system software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-1299.09,Information Technology Project Managers,NoSQL,Data base management system software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-1299.09,Information Technology Project Managers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-1299.09,Information Technology Project Managers,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-2011.00,Actuaries,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2011.00,Actuaries,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2011.00,Actuaries,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2011.00,Actuaries,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2011.00,Actuaries,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2021.00,Mathematicians,MySQL,Data base management system software,Y,N,Data Analytics
+15-2021.00,Mathematicians,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2021.00,Mathematicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+15-2021.00,Mathematicians,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+15-2031.00,Operations Research Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2031.00,Operations Research Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2031.00,Operations Research Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-2031.00,Operations Research Analysts,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-2031.00,Operations Research Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2031.00,Operations Research Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2031.00,Operations Research Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2041.00,Statisticians,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2041.00,Statisticians,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2041.00,Statisticians,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2041.00,Statisticians,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2041.01,Biostatisticians,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2041.01,Biostatisticians,MySQL,Data base management system software,Y,N,Data Analytics
+15-2041.01,Biostatisticians,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2041.01,Biostatisticians,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2051.00,Data Scientists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2051.00,Data Scientists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2051.00,Data Scientists,NoSQL,Data base management system software,Y,N,Data Analytics
+15-2051.00,Data Scientists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-2051.00,Data Scientists,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2051.00,Data Scientists,PyTorch,Data base user interface and query software,Y,Y,AI
+15-2051.00,Data Scientists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2051.00,Data Scientists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2051.00,Data Scientists,TensorFlow,Analytical or scientific software,Y,Y,AI
+15-2051.01,Business Intelligence Analysts,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2051.01,Business Intelligence Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Integration Services SSIS,Enterprise application integration software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,MySQL,Data base management system software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+15-2051.01,Business Intelligence Analysts,NoSQL,Data base management system software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,Oracle SQL Developer,Development environment software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+15-2051.01,Business Intelligence Analysts,Python,Object or component oriented development software,Y,Y,Data Analytics
+15-2051.01,Business Intelligence Analysts,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2051.01,Business Intelligence Analysts,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+15-2051.01,Business Intelligence Analysts,Transact-SQL,Data base user interface and query software,Y,N,Data Analytics
+15-2051.02,Clinical Data Managers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+15-2051.02,Clinical Data Managers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+15-2099.01,Bioinformatics Technicians,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+15-2099.01,Bioinformatics Technicians,MySQL,Data base user interface and query software,Y,N,Data Analytics
+15-2099.01,Bioinformatics Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+15-2099.01,Bioinformatics Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-1011.00,"Architects, Except Landscape and Naval",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-1011.00,"Architects, Except Landscape and Naval",NoSQL,Data base management system software,Y,N,Data Analytics
+17-1011.00,"Architects, Except Landscape and Naval",PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+17-1021.00,Cartographers and Photogrammetrists,Python,Object or component oriented development software,Y,N,Data Analytics
+17-1021.00,Cartographers and Photogrammetrists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-1022.01,Geodetic Surveyors,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2011.00,Aerospace Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2011.00,Aerospace Engineers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-2031.00,Bioengineers and Biomedical Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2031.00,Bioengineers and Biomedical Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2041.00,Chemical Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2051.01,Transportation Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2051.01,Transportation Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2051.02,Water/Wastewater Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2051.02,Water/Wastewater Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2061.00,Computer Hardware Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2061.00,Computer Hardware Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2071.00,Electrical Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-2071.00,Electrical Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2072.00,"Electronics Engineers, Except Computer",Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2072.00,"Electronics Engineers, Except Computer",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2072.01,Radio Frequency Identification Device Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-2072.01,Radio Frequency Identification Device Specialists,Microsoft SQL Server Compact,Data base management system software,N,N,Data Analytics
+17-2072.01,Radio Frequency Identification Device Specialists,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2072.01,Radio Frequency Identification Device Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2081.00,Environmental Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Python,Object or component oriented development software,Y,N,Data Analytics
+17-2112.00,Industrial Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-2112.00,Industrial Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2112.00,Industrial Engineers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+17-2112.01,Human Factors Engineers and Ergonomists,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2112.02,Validation Engineers,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+17-2112.02,Validation Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-2112.02,Validation Engineers,MySQL,Data base management system software,Y,N,Data Analytics
+17-2112.02,Validation Engineers,NoSQL,Data base management system software,Y,N,Data Analytics
+17-2112.02,Validation Engineers,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+17-2112.02,Validation Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2112.02,Validation Engineers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-2112.02,Validation Engineers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+17-2131.00,Materials Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2141.00,Mechanical Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-2141.00,Mechanical Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2141.01,Fuel Cell Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2141.02,Automotive Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2141.02,Automotive Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",CyberArk,Network security or virtual private network VPN management software,N,N,Cybersecurity
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",MySQL,Data base user interface and query software,Y,N,Data Analytics
+17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers",Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-2161.00,Nuclear Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2171.00,Petroleum Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2171.00,Petroleum Engineers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-2199.03,"Energy Engineers, Except Wind and Solar",Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.05,Mechatronics Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.05,Mechatronics Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2199.06,Microsystems Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2199.07,Photonics Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.07,Photonics Engineers,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-2199.08,Robotics Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.08,Robotics Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2199.09,Nanosystems Engineers,Python,Object or component oriented development software,Y,N,Data Analytics
+17-2199.09,Nanosystems Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2199.09,Nanosystems Engineers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+17-2199.10,Wind Energy Engineers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+17-2199.10,Wind Energy Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.10,Wind Energy Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-2199.10,Wind Energy Engineers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+17-2199.11,Solar Energy Systems Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+17-2199.11,Solar Energy Systems Engineers,Python Tools for Visual Studio (PTVS),Object or component oriented development software,N,N,Data Analytics
+17-2199.11,Solar Energy Systems Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-3012.00,Electrical and Electronics Drafters,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3021.00,Aerospace Engineering and Operations Technologists and Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-3023.00,Electrical and Electronic Engineering Technologists and Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3024.01,Robotics Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3024.01,Robotics Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+17-3025.00,Environmental Engineering Technologists and Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3025.00,Environmental Engineering Technologists and Technicians,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+17-3026.00,Industrial Engineering Technologists and Technicians,Artificial intelligence software,Industrial control software,N,N,AI
+17-3031.00,Surveying and Mapping Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+17-3031.00,Surveying and Mapping Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1011.00,Animal Scientists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1011.00,Animal Scientists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-1012.00,Food Scientists and Technologists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1012.00,Food Scientists and Technologists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-1021.00,Biochemists and Biophysicists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1023.00,Zoologists and Wildlife Biologists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,Microsoft SQL Server Reporting Services SSRS,Object or component oriented development software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,MySQL,Data base management system software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,NoSQL,Data base management system software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-1029.01,Bioinformatics Scientists,Roche 454 Life Sciences GS Data Analysis,Analytical or scientific software,N,N,Data Analytics
+19-1029.01,Bioinformatics Scientists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+19-1029.01,Bioinformatics Scientists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-1029.02,Molecular and Cellular Biologists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1029.03,Geneticists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1029.03,Geneticists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1029.04,Biologists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-1029.04,Biologists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1031.02,Range Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1041.00,Epidemiologists,EpiData Analysis,Analytical or scientific software,N,N,Data Analytics
+19-1041.00,Epidemiologists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-1041.00,Epidemiologists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-1041.00,Epidemiologists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-1042.00,"Medical Scientists, Except Epidemiologists",Python,Object or component oriented development software,Y,N,Data Analytics
+19-2011.00,Astronomers,European Southern Observatory Munich Image Data Analysis System ESO-MIDAS,Analytical or scientific software,N,N,Data Analytics
+19-2011.00,Astronomers,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2011.00,Astronomers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2012.00,Physicists,MySQL,Data base user interface and query software,Y,N,Data Analytics
+19-2012.00,Physicists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2012.00,Physicists,SQLite,Data base management system software,N,N,Data Analytics
+19-2012.00,Physicists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2021.00,Atmospheric and Space Scientists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-2021.00,Atmospheric and Space Scientists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2031.00,Chemists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2032.00,Materials Scientists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2041.00,"Environmental Scientists and Specialists, Including Health",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2041.01,Climate Change Policy Analysts,Python,Object or component oriented development software,Y,N,Data Analytics
+19-2041.03,Industrial Ecologists,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+19-2041.03,Industrial Ecologists,NoSQL,Data base management system software,Y,N,Data Analytics
+19-2041.03,Industrial Ecologists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-2041.03,Industrial Ecologists,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",MySQL,Data base user interface and query software,Y,N,Data Analytics
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2043.00,Hydrologists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2043.00,Hydrologists,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,MySQL,Data base management system software,Y,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,NoSQL,Data base management system software,Y,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-2099.01,Remote Sensing Scientists and Technologists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-3011.00,Economists,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+19-3011.00,Economists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+19-3011.00,Economists,MySQL,Data base management system software,Y,N,Data Analytics
+19-3011.00,Economists,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-3011.00,Economists,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+19-3011.00,Economists,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+19-3011.01,Environmental Economists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+19-3011.01,Environmental Economists,MySQL,Data base user interface and query software,Y,N,Data Analytics
+19-3011.01,Environmental Economists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-3011.01,Environmental Economists,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-3011.01,Environmental Economists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-3022.00,Survey Researchers,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-3022.00,Survey Researchers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-3022.00,Survey Researchers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-3051.00,Urban and Regional Planners,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-3091.00,Anthropologists and Archeologists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-3092.00,Geographers,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-3092.00,Geographers,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+19-3093.00,Historians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-3094.00,Political Scientists,Python,Object or component oriented development software,Y,N,Data Analytics
+19-3094.00,Political Scientists,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-3094.00,Political Scientists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-3099.01,Transportation Planners,Microsoft Power BI,Business intelligence and data analysis software,Y,Y,Data Analytics
+19-3099.01,Transportation Planners,Python,Object or component oriented development software,Y,N,Data Analytics
+19-3099.01,Transportation Planners,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+19-3099.01,Transportation Planners,Tableau,Business intelligence and data analysis software,Y,Y,Data Analytics
+19-4013.00,Food Science Technicians,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+19-4013.00,Food Science Technicians,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-4031.00,Chemical Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+19-4031.00,Chemical Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-4051.00,Nuclear Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-4051.02,Nuclear Monitoring Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-4061.00,Social Science Research Assistants,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+19-4061.00,Social Science Research Assistants,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-4061.00,Social Science Research Assistants,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-4061.00,Social Science Research Assistants,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+19-4099.01,Quality Control Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+19-4099.01,Quality Control Analysts,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+19-4099.03,Remote Sensing Technicians,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+19-4099.03,Remote Sensing Technicians,MySQL,Data base management system software,Y,N,Data Analytics
+19-4099.03,Remote Sensing Technicians,Python,Object or component oriented development software,Y,Y,Data Analytics
+19-4099.03,Remote Sensing Technicians,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+19-4099.03,Remote Sensing Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+21-1012.00,"Educational, Guidance, and Career Counselors and Advisors",Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+25-1021.00,"Computer Science Teachers, Postsecondary",Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+25-1021.00,"Computer Science Teachers, Postsecondary",Python,Object or component oriented development software,Y,Y,Data Analytics
+25-1022.00,"Mathematical Science Teachers, Postsecondary",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+25-1032.00,"Engineering Teachers, Postsecondary",Python,Object or component oriented development software,Y,N,Data Analytics
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",MySQL,Data base user interface and query software,Y,N,Data Analytics
+25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary",Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+25-1063.00,"Economics Teachers, Postsecondary",Python,Object or component oriented development software,Y,N,Data Analytics
+25-1063.00,"Economics Teachers, Postsecondary",Python Experimental Economics Toolkit PEET,Analytical or scientific software,N,N,Data Analytics
+25-1082.00,"Library Science Teachers, Postsecondary",MySQL,Data base user interface and query software,Y,N,Data Analytics
+25-1082.00,"Library Science Teachers, Postsecondary",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+25-1121.00,"Art, Drama, and Music Teachers, Postsecondary",MySQL,Data base management system software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",MySQL,Data base user interface and query software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",NoSQL,Data base management system software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",PostgreSQL,Object oriented data base management software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",Python,Object or component oriented development software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+25-2023.00,"Career/Technical Education Teachers, Middle School",Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+25-4012.00,Curators,Python,Object or component oriented development software,Y,N,Data Analytics
+25-4012.00,Curators,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+25-4022.00,Librarians and Media Collections Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+25-9031.00,Instructional Coordinators,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+25-9031.00,Instructional Coordinators,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+25-9044.00,"Teaching Assistants, Postsecondary",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators",Python,Object or component oriented development software,Y,N,Data Analytics
+27-1014.00,Special Effects Artists and Animators,Python,Object or component oriented development software,Y,N,Data Analytics
+27-1021.00,Commercial and Industrial Designers,Python,Object or component oriented development software,Y,N,Data Analytics
+27-1024.00,Graphic Designers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+27-1027.00,Set and Exhibit Designers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+27-2012.03,Media Programming Directors,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+27-2012.05,Media Technical Directors/Managers,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+27-2012.05,Media Technical Directors/Managers,Python,Object or component oriented development software,Y,N,Data Analytics
+27-2012.05,Media Technical Directors/Managers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+27-3023.00,"News Analysts, Reporters, and Journalists",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+27-3042.00,Technical Writers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+27-3042.00,Technical Writers,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+27-3042.00,Technical Writers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+27-3043.00,Writers and Authors,MySQL,Data base management system software,Y,N,Data Analytics
+29-1041.00,Optometrists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",Python,Object or component oriented development software,Y,N,Data Analytics
+29-2011.01,Cytogenetic Technologists,Python,Object or component oriented development software,Y,N,Data Analytics
+29-2072.00,Medical Records Specialists,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+29-2072.00,Medical Records Specialists,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+29-2072.00,Medical Records Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+29-2072.00,Medical Records Specialists,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Microsoft SQL Server Reporting Services SSRS,Data base reporting software,Y,N,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+31-1121.00,Home Health Aides,Python,Object or component oriented development software,Y,N,Data Analytics
+33-2022.00,Forest Fire Inspectors and Prevention Specialists,Microsoft SQL Server,Data base management system software,Y,N,Data Analytics
+33-3021.00,Detectives and Criminal Investigators,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+33-3021.06,Intelligence Analysts,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+33-3021.06,Intelligence Analysts,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+33-3021.06,Intelligence Analysts,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+33-3021.06,Intelligence Analysts,Python,Object or component oriented development software,Y,N,Data Analytics
+33-3021.06,Intelligence Analysts,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+33-3021.06,Intelligence Analysts,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+33-3021.06,Intelligence Analysts,TensorFlow,Analytical or scientific software,Y,N,AI
+33-9032.00,Security Guards,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+33-9099.02,Retail Loss Prevention Specialists,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+33-9099.02,Retail Loss Prevention Specialists,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+39-7012.00,Travel Guides,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+39-7012.00,Travel Guides,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+41-1011.00,First-Line Supervisors of Retail Sales Workers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+41-3031.00,"Securities, Commodities, and Financial Services Sales Agents",Python,Object or component oriented development software,Y,N,Data Analytics
+41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+41-9031.00,Sales Engineers,Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+41-9031.00,Sales Engineers,Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+41-9031.00,Sales Engineers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+41-9031.00,Sales Engineers,Python,Object or component oriented development software,Y,Y,Data Analytics
+41-9031.00,Sales Engineers,Security assertion markup language SAML,Web platform development software,N,N,Cybersecurity
+41-9031.00,Sales Engineers,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+43-1011.00,First-Line Supervisors of Office and Administrative Support Workers,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+43-4011.00,Brokerage Clerks,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+43-4041.00,"Credit Authorizers, Checkers, and Clerks",Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+43-4051.00,Customer Service Representatives,NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+43-5061.00,"Production, Planning, and Expediting Clerks",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",Microsoft SQL Server,Data base user interface and query software,Y,N,Data Analytics
+43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",NortonLifeLock cybersecurity software,Transaction security and virus protection software,N,N,Cybersecurity
+43-9031.00,Desktop Publishers,MySQL,Data base management system software,Y,N,Data Analytics
+43-9031.00,Desktop Publishers,Python,Object or component oriented development software,Y,N,Data Analytics
+43-9111.00,Statistical Assistants,Oracle PL/SQL,Data base management system software,Y,N,Data Analytics
+43-9111.00,Statistical Assistants,Python,Object or component oriented development software,Y,Y,Data Analytics
+43-9111.00,Statistical Assistants,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+43-9111.00,Statistical Assistants,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+47-4011.01,Energy Auditors,Python,Object or component oriented development software,Y,Y,Data Analytics
+47-4011.01,Energy Auditors,Structured query language SQL,Data base user interface and query software,Y,Y,Data Analytics
+47-5012.00,"Rotary Drill Operators, Oil and Gas",Python,Object or component oriented development software,Y,N,Data Analytics
+47-5012.00,"Rotary Drill Operators, Oil and Gas",Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+49-2011.00,"Computer, Automated Teller, and Office Machine Repairers",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers",Firewall software,Network security and virtual private network VPN equipment software,N,N,Cybersecurity
+49-2092.00,"Electric Motor, Power Tool, and Related Repairers",Python,Object or component oriented development software,Y,N,Data Analytics
+49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+49-9081.00,Wind Turbine Service Technicians,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+51-8011.00,Nuclear Power Reactor Operators,Microsoft Power BI,Business intelligence and data analysis software,Y,N,Data Analytics
+51-8011.00,Nuclear Power Reactor Operators,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+51-8099.01,Biofuels Processing Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+51-8099.01,Biofuels Processing Technicians,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Data analysis software,Analytical or scientific software,N,N,Data Analytics
+51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+51-9141.00,Semiconductor Processing Technicians,Python,Object or component oriented development software,Y,Y,Data Analytics
+51-9151.00,Photographic Process Workers and Processing Machine Operators,MySQL,Data base user interface and query software,Y,N,Data Analytics
+51-9151.00,Photographic Process Workers and Processing Machine Operators,Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics
+53-6041.00,Traffic Technicians,Python,Object or component oriented development software,Y,N,Data Analytics
+53-6041.00,Traffic Technicians,Structure query language SQL,Data base user interface and query software,N,N,Data Analytics
+53-6041.00,Traffic Technicians,Tableau,Business intelligence and data analysis software,Y,N,Data Analytics
+53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",Structured query language SQL,Data base user interface and query software,Y,N,Data Analytics

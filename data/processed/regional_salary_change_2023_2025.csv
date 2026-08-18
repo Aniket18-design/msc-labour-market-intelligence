@@ -1,0 +1,10 @@
+Region,Location_Context,SOC_Code,Skill_Category,Median_Salary_2023,Median_Salary_2025,Salary_Change_GBP_2023_2025,Salary_Change_Pct_2023_2025
+London,London,2135,Cybersecurity,,59590.0,,
+North West,Manchester regional context,2135,Cybersecurity,59001.0,51954.0,-7047.0,-11.94
+West Midlands,Birmingham regional context,2135,Cybersecurity,44505.0,,,
+London,London,3544,Data Analytics,40198.0,42850.0,2652.0,6.6
+North West,Manchester regional context,3544,Data Analytics,31496.0,33871.0,2375.0,7.54
+West Midlands,Birmingham regional context,3544,Data Analytics,31094.0,44172.0,13078.0,42.06
+London,London,2134,Software Development,67505.0,74284.0,6779.0,10.04
+North West,Manchester regional context,2134,Software Development,43207.0,49505.0,6298.0,14.58
+West Midlands,Birmingham regional context,2134,Software Development,41315.0,47744.0,6429.0,15.56

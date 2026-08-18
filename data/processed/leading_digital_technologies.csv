@@ -1,0 +1,20 @@
+Skill_Category,Workplace Example,Occupation_Count,Hot_Technology,In_Demand,Technology_Status,Indicator_Score
+Data Analytics,Structured query language SQL,151,1,1,Hot + In Demand,2
+Data Analytics,Python,132,1,1,Hot + In Demand,2
+Data Analytics,Microsoft SQL Server,94,1,1,Hot + In Demand,2
+Data Analytics,Tableau,73,1,1,Hot + In Demand,2
+Data Analytics,MySQL,50,1,1,Hot + In Demand,2
+Data Analytics,PostgreSQL,31,1,1,Hot + In Demand,2
+Data Analytics,NoSQL,30,1,1,Hot + In Demand,2
+Data Analytics,Microsoft Power BI,25,1,1,Hot + In Demand,2
+AI,TensorFlow,5,1,1,Hot + In Demand,2
+AI,PyTorch,4,1,1,Hot + In Demand,2
+Cybersecurity,Firewall software,20,0,1,In Demand,1
+Cybersecurity,NortonLifeLock cybersecurity software,37,0,0,Neither,0
+Cybersecurity,Network intrusion prevention systems NIPS,6,0,0,Neither,0
+Cybersecurity,Intrusion prevention system IPS,5,0,0,Neither,0
+Cybersecurity,Security assertion markup language SAML,5,0,0,Neither,0
+Cybersecurity,IBM QRadar SIEM,4,0,0,Neither,0
+Cybersecurity,Security incident management software,4,0,0,Neither,0
+Cybersecurity,Security testing software,3,0,0,Neither,0
+AI,Artificial intelligence software,1,0,0,Neither,0

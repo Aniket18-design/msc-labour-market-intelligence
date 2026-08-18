@@ -1,0 +1,10 @@
+Year,SOC_Code,Occupation,Skill_Category,Average_Monthly_Adverts,Median_Annual_Salary,Cluster
+2023,2134,Programmers and software development professionals,Software Development,16183.8,49444,1
+2024,2134,Programmers and software development professionals,Software Development,8247.4,53363,1
+2025,2134,Programmers and software development professionals,Software Development,9484.7,55587,1
+2023,2135,Cyber security professionals,Cybersecurity,2457.8,45573,2
+2024,2135,Cyber security professionals,Cybersecurity,1428.6,48555,2
+2025,2135,Cyber security professionals,Cybersecurity,1846.0,54816,2
+2023,3544,Data analysts,Data Analytics,2466.6,33695,0
+2024,3544,Data analysts,Data Analytics,1459.7,34125,0
+2025,3544,Data analysts,Data Analytics,1656.4,38107,0

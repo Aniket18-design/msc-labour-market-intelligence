@@ -1,0 +1,197 @@
+O*NET-SOC Code,Title,Job Title,Clean_Job_Title,NLP_Category
+11-1011.00,Chief Executives,Chief Information Security Officer (CISO),chief information security officer,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Chief Information Security Officer (CISO),chief information security officer,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Cybersecurity All-Source Collection Manager,cybersecurity all source collection manager,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Cybersecurity All-Source Collection Requirements Manager,cybersecurity all source collection requirements manager,Cybersecurity
+11-3021.00,Computer and Information Systems Managers,Information Security Manager,information security manager,Cybersecurity
+13-1071.00,Human Resources Specialists,Business Intelligence Engineer,business intelligence engineer,Data Analytics
+13-1081.02,Logistics Analysts,Supply Chain Data Analyst,supply chain data analyst,Data Analytics
+13-1111.00,Management Analysts,Health Information Management Data Analyst (HIM Data Analyst),health information management data analyst,Data Analytics
+13-1199.07,Security Management Specialists,Cybersecurity Analyst,cybersecurity analyst,Cybersecurity
+13-1199.07,Security Management Specialists,Cybersecurity Associate,cybersecurity associate,Cybersecurity
+13-1199.07,Security Management Specialists,Cybersecurity Consultant,cybersecurity consultant,Cybersecurity
+13-1199.07,Security Management Specialists,Cybersecurity Risk Analyst,cybersecurity risk analyst,Cybersecurity
+13-1199.07,Security Management Specialists,Cybersecurity Specialist,cybersecurity specialist,Cybersecurity
+13-1199.07,Security Management Specialists,Industrial Control Systems Cybersecurity Consultant,industrial control systems cybersecurity consultant,Cybersecurity
+13-1199.07,Security Management Specialists,Information Security Consultant,information security consultant,Cybersecurity
+13-1199.07,Security Management Specialists,Offensive Security Engineer,offensive security engineer,Cybersecurity
+13-1199.07,Security Management Specialists,Physical Security Engineer,physical security engineer,Cybersecurity
+13-1199.07,Security Management Specialists,Security Analyst,security analyst,Cybersecurity
+13-1199.07,Security Management Specialists,Security Engineer,security engineer,Cybersecurity
+13-2099.01,Financial Quantitative Analysts,Data Analyst,data analyst,Data Analytics
+13-2099.04,"Fraud Examiners, Investigators and Analysts",Fraud Data Analyst,fraud data analyst,Data Analytics
+15-1211.00,Computer Systems Analysts,Database Analyst,database analyst,Data Analytics
+15-1211.00,Computer Systems Analysts,IT Security Analyst (Information Technology Security Analyst),it security analyst,Cybersecurity
+15-1211.01,Health Informatics Specialists,Healthcare Data Analyst,healthcare data analyst,Data Analytics
+15-1212.00,Information Security Analysts,Application Security Analyst,application security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Applications Security Analyst,applications security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cloud Security Engineer,cloud security engineer,Cybersecurity
+15-1212.00,Information Security Analysts,Computer Systems Security Analyst,computer systems security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cyber Information Security Analyst,cyber information security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cyber Security Analyst,cyber security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cyber Security Specialist,cyber security specialist,Cybersecurity
+15-1212.00,Information Security Analysts,Cyber Security Support Technician,cyber security support technician,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity All-Source Analyst,cybersecurity all source analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Analyst,cybersecurity analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Engineer,cybersecurity engineer,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Exploitation Analyst,cybersecurity exploitation analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Incident Response Analyst,cybersecurity incident response analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Multi-Disciplined Language Analyst,cybersecurity multi disciplined language analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Partner Integration Planner,cybersecurity partner integration planner,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Specialist,cybersecurity specialist,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Target Developer,cybersecurity target developer,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Target Network Analyst,cybersecurity target network analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Threat Analyst,cybersecurity threat analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Cybersecurity Warning Analyst,cybersecurity warning analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Data Security Analyst,data security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Information Security Analyst,information security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Information Security Officer,information security officer,Cybersecurity
+15-1212.00,Information Security Analysts,Information Security Specialist,information security specialist,Cybersecurity
+15-1212.00,Information Security Analysts,Information Systems Security Analyst,information systems security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Information Technology Security Analyst (IT Security Analyst),information technology security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Network Security Analyst,network security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Network Security Officer,network security officer,Cybersecurity
+15-1212.00,Information Security Analysts,Network Security Systems Analyst,network security systems analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Security Analyst,security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Supervisory Control and Data Acquisition Security Analyst (SCADA Security Analyst),supervisory control and data acquisition security analyst,Cybersecurity
+15-1212.00,Information Security Analysts,Systems Security Analyst,systems security analyst,Cybersecurity
+15-1221.00,Computer and Information Research Scientists,AI Engineer (Artificial Intelligence Engineer),ai engineer,AI
+15-1221.00,Computer and Information Research Scientists,Artificial Intelligence Specialist (AI Specialist),artificial intelligence specialist,AI
+15-1221.00,Computer and Information Research Scientists,Cybersecurity Research Scientist (Cyber Research Scientist),cybersecurity research scientist,Cybersecurity
+15-1221.00,Computer and Information Research Scientists,Machine Learning Data Scientist,machine learning data scientist,AI + Data Analytics
+15-1221.00,Computer and Information Research Scientists,Machine Learning Engineer,machine learning engineer,AI
+15-1221.00,Computer and Information Research Scientists,Machine Learning Research Scientist,machine learning research scientist,AI
+15-1221.00,Computer and Information Research Scientists,Machine Learning Scientist,machine learning scientist,AI
+15-1221.00,Computer and Information Research Scientists,Machine Learning Software Engineer,machine learning software engineer,AI
+15-1241.00,Computer Network Architects,Network Security Analyst,network security analyst,Cybersecurity
+15-1241.00,Computer Network Architects,Network Security Systems Analyst,network security systems analyst,Cybersecurity
+15-1242.00,Database Administrators,Data Engineer,data engineer,Data Analytics
+15-1242.00,Database Administrators,Database Analyst,database analyst,Data Analytics
+15-1243.00,Database Architects,Big Data Architect,big data architect,Data Analytics
+15-1243.00,Database Architects,Big Data Engineer,big data engineer,Data Analytics
+15-1243.00,Database Architects,Data Analyst,data analyst,Data Analytics
+15-1243.00,Database Architects,Data Architect,data architect,Data Analytics
+15-1243.00,Database Architects,Data Engineer,data engineer,Data Analytics
+15-1243.00,Database Architects,Data Warehouse Architect,data warehouse architect,Data Analytics
+15-1243.00,Database Architects,Data Warehouse Programmer,data warehouse programmer,Data Analytics
+15-1243.00,Database Architects,Database Analyst,database analyst,Data Analytics
+15-1243.00,Database Architects,Enterprise Data Architect,enterprise data architect,Data Analytics
+15-1243.01,Data Warehousing Specialists,Big Data Engineer,big data engineer,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Analyst,data warehouse analyst,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Developer,data warehouse developer,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Engineer,data warehouse engineer,Data Analytics
+15-1243.01,Data Warehousing Specialists,"Data Warehouse ETL Developer (Data Warehouse Extract, Transform, and Load Developer)",data warehouse etl developer,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Programmer,data warehouse programmer,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Solution Architect,data warehouse solution architect,Data Analytics
+15-1243.01,Data Warehousing Specialists,Data Warehouse Specialist,data warehouse specialist,Data Analytics
+15-1244.00,Network and Computer Systems Administrators,Network Security Administrator,network security administrator,Cybersecurity
+15-1299.00,"Computer Occupations, All Other",Artificial Intelligence Specialist,artificial intelligence specialist,AI
+15-1299.04,Penetration Testers,Cyber Security Engineer,cyber security engineer,Cybersecurity
+15-1299.04,Penetration Testers,Cyber Security Tester,cyber security tester,Cybersecurity
+15-1299.04,Penetration Testers,Cybersecurity Engineer (Cyber Engineer),cybersecurity engineer,Cybersecurity
+15-1299.04,Penetration Testers,Cybersecurity Specialist,cybersecurity specialist,Cybersecurity
+15-1299.04,Penetration Testers,Information Security Analyst,information security analyst,Cybersecurity
+15-1299.04,Penetration Testers,Information Security Assessor,information security assessor,Cybersecurity
+15-1299.04,Penetration Testers,Network Security Engineer,network security engineer,Cybersecurity
+15-1299.04,Penetration Testers,Network Security Tester,network security tester,Cybersecurity
+15-1299.04,Penetration Testers,Offensive Security Engineer,offensive security engineer,Cybersecurity
+15-1299.04,Penetration Testers,Penetration Tester,penetration tester,Cybersecurity
+15-1299.04,Penetration Testers,Penetration Testing Consultant,penetration testing consultant,Cybersecurity
+15-1299.04,Penetration Testers,Security Engineer,security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Application Security Engineer,application security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Automotive Security Engineer,automotive security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cloud Security Engineer,cloud security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Architect,cybersecurity architect,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Engineer,cybersecurity engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Hardware Engineer,cybersecurity hardware engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Software Developer,cybersecurity software developer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Software Engineer,cybersecurity software engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Systems Engineer,cybersecurity systems engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Cybersecurity Threat Engineer,cybersecurity threat engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Administrator (Information Security Admin),information security administrator,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Architect,information security architect,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Auditor,information security auditor,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Consultant,information security consultant,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Engineer,information security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Loss Prevention Engineer,information security loss prevention engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security Management Engineer,information security management engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Information Security System Engineer,information security system engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Infrastructure Security Engineer,infrastructure security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,IS Security Engineer (Information Systems Security Engineer),is security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,IT Security Engineer (Information Technology Security Engineer),it security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Mobile Security Engineer,mobile security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Network Security Engineer,network security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Product Security Engineer,product security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,Security Analyst,security analyst,Cybersecurity
+15-1299.05,Information Security Engineers,Security Data Scientist,security data scientist,Data Analytics
+15-1299.05,Information Security Engineers,Security Engineer,security engineer,Cybersecurity
+15-1299.05,Information Security Engineers,System Security Analyst,system security analyst,Cybersecurity
+15-1299.05,Information Security Engineers,Systems Security Engineer,systems security engineer,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Cyber Digital Forensics,cyber digital forensics,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Cybersecurity Analyst (Cyber),cybersecurity analyst,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Cybersecurity Engineer (Cyber),cybersecurity engineer,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Cybersecurity Incident Response Analyst (Cyber),cybersecurity incident response analyst,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Cybersecurity Specialist (Cyber),cybersecurity specialist,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Digital Forensics Analyst,digital forensics analyst,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Information Technology Security Analyst (IT Security Analyst),information technology security analyst,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Offensive Security Engineer,offensive security engineer,Cybersecurity
+15-1299.06,Digital Forensics Analysts,Security Analyst,security analyst,Cybersecurity
+15-1299.07,Blockchain Engineers,Blockchain Penetration Tester,blockchain penetration tester,Cybersecurity
+15-1299.07,Blockchain Engineers,Security Engineer,security engineer,Cybersecurity
+15-1299.08,Computer Systems Engineers/Architects,Machine Learning Engineer,machine learning engineer,AI
+15-1299.09,Information Technology Project Managers,Cybersecurity Project Manager,cybersecurity project manager,Cybersecurity
+15-1299.09,Information Technology Project Managers,Cybersecurity Scrum Master,cybersecurity scrum master,Cybersecurity
+15-2041.00,Statisticians,Data Analyst,data analyst,Data Analytics
+15-2041.00,Statisticians,Data Analyst Specialist,data analyst specialist,Data Analytics
+15-2041.00,Statisticians,Data Analytics Specialist,data analytics specialist,Data Analytics
+15-2041.00,Statisticians,Data Engineer,data engineer,Data Analytics
+15-2041.00,Statisticians,Data Science Specialist,data science specialist,Data Analytics
+15-2041.00,Statisticians,Database Analyst,database analyst,Data Analytics
+15-2041.00,Statisticians,Statistical Data Analyst,statistical data analyst,Data Analytics
+15-2051.00,Data Scientists,Data Analyst,data analyst,Data Analytics
+15-2051.00,Data Scientists,Data Analytics Manager,data analytics manager,Data Analytics
+15-2051.00,Data Scientists,Data Analytics Scientist,data analytics scientist,Data Analytics
+15-2051.00,Data Scientists,Data Analytics Specialist,data analytics specialist,Data Analytics
+15-2051.00,Data Scientists,Data Architect,data architect,Data Analytics
+15-2051.00,Data Scientists,Data Engineer,data engineer,Data Analytics
+15-2051.00,Data Scientists,Data Science Engineer,data science engineer,Data Analytics
+15-2051.00,Data Scientists,Data Science Intern,data science intern,Data Analytics
+15-2051.00,Data Scientists,Data Scientist,data scientist,Data Analytics
+15-2051.00,Data Scientists,Machine Learning Data Scientist,machine learning data scientist,AI + Data Analytics
+15-2051.00,Data Scientists,Machine Learning Engineer,machine learning engineer,AI
+15-2051.00,Data Scientists,Machine Learning Scientist,machine learning scientist,AI
+15-2051.00,Data Scientists,Machine Learning Software Engineer,machine learning software engineer,AI
+15-2051.00,Data Scientists,Marketing Data Scientist,marketing data scientist,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Data Analyst,business data analyst,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Database Analyst,business database analyst,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Intelligence Analyst (BI Analyst),business intelligence analyst,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Intelligence Consultant (BI Consultant),business intelligence consultant,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Intelligence Coordinator (BI Coordinator),business intelligence coordinator,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Intelligence Engineer,business intelligence engineer,Data Analytics
+15-2051.01,Business Intelligence Analysts,Business Intelligence Specialist (BI Specialist),business intelligence specialist,Data Analytics
+15-2051.01,Business Intelligence Analysts,Data Analyst,data analyst,Data Analytics
+15-2051.01,Business Intelligence Analysts,Marketing Database Analyst,marketing database analyst,Data Analytics
+15-2051.02,Clinical Data Managers,Clinical Data Analyst,clinical data analyst,Data Analytics
+15-2099.01,Bioinformatics Technicians,Data Analyst,data analyst,Data Analytics
+17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Security Engineer,security engineer,Cybersecurity
+17-3027.00,Mechanical Engineering Technologists and Technicians,Engineering Data Analyst,engineering data analyst,Data Analytics
+19-1029.01,Bioinformatics Scientists,Bioinformatics Data Analyst,bioinformatics data analyst,Data Analytics
+19-1029.01,Bioinformatics Scientists,Data Analyst,data analyst,Data Analytics
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",Mud Logging Data Analyst,mud logging data analyst,Data Analytics
+19-2042.00,"Geoscientists, Except Hydrologists and Geographers",Mud Logging Data Engineer,mud logging data engineer,Data Analytics
+19-3022.00,Survey Researchers,Data Analyst,data analyst,Data Analytics
+19-4061.00,Social Science Research Assistants,Data Analyst,data analyst,Data Analytics
+19-4061.00,Social Science Research Assistants,Research Data Analyst,research data analyst,Data Analytics
+19-4092.00,Forensic Science Technicians,Digital Forensics Analyst,digital forensics analyst,Cybersecurity
+23-1011.00,Lawyers,Cybersecurity Lawyer,cybersecurity lawyer,Cybersecurity
+25-1021.00,"Computer Science Teachers, Postsecondary",Cybersecurity Instructor,cybersecurity instructor,Cybersecurity
+25-1021.00,"Computer Science Teachers, Postsecondary",Information Security Systems Instructor,information security systems instructor,Cybersecurity
+25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary",Digital Forensics Instructor,digital forensics instructor,Cybersecurity
+29-9021.00,Health Information Technologists and Medical Registrars,Health Data Analyst,health data analyst,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Healthcare Data Analyst,healthcare data analyst,Data Analytics
+29-9021.00,Health Information Technologists and Medical Registrars,Medical Data Analyst,medical data analyst,Data Analytics
+33-3021.06,Intelligence Analysts,Cybersecurity Technician (Cybersecurity Tech),cybersecurity technician,Cybersecurity
+33-3021.06,Intelligence Analysts,Security Analyst,security analyst,Cybersecurity
+33-9021.00,Private Detectives and Investigators,Security Analyst,security analyst,Cybersecurity
+49-2098.00,Security and Fire Alarm Systems Installers,Security Engineer,security engineer,Cybersecurity
+51-8099.01,Biofuels Processing Technicians,Biofuels Data Scientist,biofuels data scientist,Data Analytics

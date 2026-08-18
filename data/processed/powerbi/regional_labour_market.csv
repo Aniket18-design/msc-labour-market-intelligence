@@ -1,0 +1,28 @@
+Year,Region,Location_Context,SOC_Code,Skill_Category,Median_Annual_Salary,Regional_Average_Monthly_Adverts,Regional_Demand_Growth_Pct,West_Midlands_Baseline,Salary_Premium_GBP,Salary_Premium_Pct,Salary_Change_GBP_2023_2025,Salary_Change_Pct_2023_2025,Salary_Data_Quality
+2023,London,London,2134,Software Development,67505.0,164341.2,,41315.0,26190.0,63.39,6779.0,10.04,Available
+2023,London,London,2135,Cybersecurity,,164341.2,,44505.0,,,,,Suppressed / unavailable
+2023,London,London,3544,Data Analytics,40198.0,164341.2,,31094.0,9104.0,29.28,2652.0,6.6,Available
+2023,North West,Manchester regional context,2134,Software Development,43207.0,88384.1,,41315.0,1892.0,4.58,6298.0,14.58,Available
+2023,North West,Manchester regional context,2135,Cybersecurity,59001.0,88384.1,,44505.0,14496.0,32.57,-7047.0,-11.94,Available
+2023,North West,Manchester regional context,3544,Data Analytics,31496.0,88384.1,,31094.0,402.0,1.29,2375.0,7.54,Available
+2023,West Midlands,Birmingham regional context,2134,Software Development,41315.0,67152.2,,41315.0,0.0,0.0,6429.0,15.56,Available
+2023,West Midlands,Birmingham regional context,2135,Cybersecurity,44505.0,67152.2,,44505.0,0.0,0.0,,,Available
+2023,West Midlands,Birmingham regional context,3544,Data Analytics,31094.0,67152.2,,31094.0,0.0,0.0,13078.0,42.06,Available
+2024,London,London,2134,Software Development,68012.0,118799.3,-27.71,46796.0,21216.0,45.34,6779.0,10.04,Available
+2024,London,London,2135,Cybersecurity,60113.0,118799.3,-27.71,42582.0,17531.0,41.17,,,Available
+2024,London,London,3544,Data Analytics,,118799.3,-27.71,34387.0,,,2652.0,6.6,Suppressed / unavailable
+2024,North West,Manchester regional context,2134,Software Development,45180.0,77669.0,-12.12,46796.0,-1616.0,-3.45,6298.0,14.58,Available
+2024,North West,Manchester regional context,2135,Cybersecurity,,77669.0,-12.12,42582.0,,,-7047.0,-11.94,Suppressed / unavailable
+2024,North West,Manchester regional context,3544,Data Analytics,33521.0,77669.0,-12.12,34387.0,-866.0,-2.52,2375.0,7.54,Available
+2024,West Midlands,Birmingham regional context,2134,Software Development,46796.0,58163.8,-13.39,46796.0,0.0,0.0,6429.0,15.56,Available
+2024,West Midlands,Birmingham regional context,2135,Cybersecurity,42582.0,58163.8,-13.39,42582.0,0.0,0.0,,,Available
+2024,West Midlands,Birmingham regional context,3544,Data Analytics,34387.0,58163.8,-13.39,34387.0,0.0,0.0,13078.0,42.06,Available
+2025,London,London,2134,Software Development,74284.0,121131.8,1.96,47744.0,26540.0,55.59,6779.0,10.04,Available
+2025,London,London,2135,Cybersecurity,59590.0,121131.8,1.96,,,,,,Available
+2025,London,London,3544,Data Analytics,42850.0,121131.8,1.96,44172.0,-1322.0,-2.99,2652.0,6.6,Available
+2025,North West,Manchester regional context,2134,Software Development,49505.0,77827.8,0.2,47744.0,1761.0,3.69,6298.0,14.58,Available
+2025,North West,Manchester regional context,2135,Cybersecurity,51954.0,77827.8,0.2,,,,-7047.0,-11.94,Available
+2025,North West,Manchester regional context,3544,Data Analytics,33871.0,77827.8,0.2,44172.0,-10301.0,-23.32,2375.0,7.54,Available
+2025,West Midlands,Birmingham regional context,2134,Software Development,47744.0,59020.1,1.47,47744.0,0.0,0.0,6429.0,15.56,Available
+2025,West Midlands,Birmingham regional context,2135,Cybersecurity,,59020.1,1.47,,,,,,Suppressed / unavailable
+2025,West Midlands,Birmingham regional context,3544,Data Analytics,44172.0,59020.1,1.47,44172.0,0.0,0.0,13078.0,42.06,Available

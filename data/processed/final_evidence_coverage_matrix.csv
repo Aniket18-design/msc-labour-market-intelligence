@@ -1,0 +1,5 @@
+Skill_Category,UK_Labour_Market_Evidence,ONet_Skill_Evidence,ONet_Technology_Evidence,Evidence_Sources_Available,Evidence_Coverage
+AI,False,False,True,1,Limited
+Cybersecurity,True,True,True,3,Full
+Data Analytics,True,True,True,3,Full
+Software Development,True,True,False,2,Partial

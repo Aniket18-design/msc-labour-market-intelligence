@@ -1,0 +1,81 @@
+Title,Element Name,Scale Name,Data Value
+Information Security Analysts,Reading Comprehension,Importance,4.0
+Information Security Analysts,Reading Comprehension,Level,4.12
+Information Security Analysts,Active Listening,Importance,3.75
+Information Security Analysts,Active Listening,Level,3.88
+Information Security Analysts,Writing,Importance,3.5
+Information Security Analysts,Writing,Level,3.75
+Information Security Analysts,Speaking,Importance,3.62
+Information Security Analysts,Speaking,Level,3.75
+Information Security Analysts,Mathematics,Importance,2.25
+Information Security Analysts,Mathematics,Level,2.38
+Information Security Analysts,Science,Importance,1.88
+Information Security Analysts,Science,Level,1.62
+Information Security Analysts,Critical Thinking,Importance,3.88
+Information Security Analysts,Critical Thinking,Level,4.12
+Information Security Analysts,Active Learning,Importance,3.25
+Information Security Analysts,Active Learning,Level,3.88
+Information Security Analysts,Learning Strategies,Importance,2.88
+Information Security Analysts,Learning Strategies,Level,3.12
+Information Security Analysts,Monitoring,Importance,3.38
+Information Security Analysts,Monitoring,Level,3.88
+Database Administrators,Reading Comprehension,Importance,3.75
+Database Administrators,Reading Comprehension,Level,4.25
+Database Administrators,Active Listening,Importance,3.75
+Database Administrators,Active Listening,Level,3.88
+Database Administrators,Writing,Importance,3.25
+Database Administrators,Writing,Level,3.88
+Database Administrators,Speaking,Importance,3.38
+Database Administrators,Speaking,Level,3.88
+Database Administrators,Mathematics,Importance,3.0
+Database Administrators,Mathematics,Level,3.5
+Database Administrators,Science,Importance,2.0
+Database Administrators,Science,Level,1.75
+Database Administrators,Critical Thinking,Importance,3.88
+Database Administrators,Critical Thinking,Level,4.0
+Database Administrators,Active Learning,Importance,3.5
+Database Administrators,Active Learning,Level,4.12
+Database Administrators,Learning Strategies,Importance,3.0
+Database Administrators,Learning Strategies,Level,3.25
+Database Administrators,Monitoring,Importance,3.25
+Database Administrators,Monitoring,Level,3.88
+Software Developers,Reading Comprehension,Importance,3.5
+Software Developers,Reading Comprehension,Level,4.25
+Software Developers,Active Listening,Importance,3.38
+Software Developers,Active Listening,Level,3.88
+Software Developers,Writing,Importance,3.25
+Software Developers,Writing,Level,3.62
+Software Developers,Speaking,Importance,3.12
+Software Developers,Speaking,Level,3.62
+Software Developers,Mathematics,Importance,2.75
+Software Developers,Mathematics,Level,3.25
+Software Developers,Science,Importance,2.12
+Software Developers,Science,Level,1.88
+Software Developers,Critical Thinking,Importance,3.88
+Software Developers,Critical Thinking,Level,4.12
+Software Developers,Active Learning,Importance,3.5
+Software Developers,Active Learning,Level,3.62
+Software Developers,Learning Strategies,Importance,2.62
+Software Developers,Learning Strategies,Level,3.12
+Software Developers,Monitoring,Importance,3.0
+Software Developers,Monitoring,Level,3.5
+Statisticians,Reading Comprehension,Importance,4.0
+Statisticians,Reading Comprehension,Level,4.88
+Statisticians,Active Listening,Importance,3.88
+Statisticians,Active Listening,Level,4.0
+Statisticians,Writing,Importance,3.75
+Statisticians,Writing,Level,4.25
+Statisticians,Speaking,Importance,3.88
+Statisticians,Speaking,Level,4.25
+Statisticians,Mathematics,Importance,4.88
+Statisticians,Mathematics,Level,5.38
+Statisticians,Science,Importance,3.5
+Statisticians,Science,Level,3.88
+Statisticians,Critical Thinking,Importance,4.0
+Statisticians,Critical Thinking,Level,4.5
+Statisticians,Active Learning,Importance,3.75
+Statisticians,Active Learning,Level,3.88
+Statisticians,Learning Strategies,Importance,3.12
+Statisticians,Learning Strategies,Level,3.0
+Statisticians,Monitoring,Importance,3.0
+Statisticians,Monitoring,Level,3.0

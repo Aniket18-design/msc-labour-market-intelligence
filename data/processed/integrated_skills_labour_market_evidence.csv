@@ -1,0 +1,5 @@
+Skill_Category,Mean_Monthly_Adverts,Mean_Annual_Salary,ONet_Occupations,Mean_Skill_Importance,Mean_Skill_Level,Maximum_Skill_Importance,Maximum_Skill_Level,Unique_Technologies,Hot_Technologies,In_Demand_Technologies,Hot_Technology_Pct,In_Demand_Pct,UK_Labour_Market_Evidence,ONet_Skill_Evidence,ONet_Technology_Evidence
+AI,,,,,,,,3.0,2.0,2.0,66.67,66.67,False,False,True
+Cybersecurity,1910.8,49648.0,1.0,3.24,3.45,4.0,4.12,17.0,0.0,1.0,0.0,5.88,True,True,True
+Data Analytics,1860.9,35309.0,2.0,3.53,3.87,4.88,5.38,27.0,13.0,11.0,48.15,40.74,True,True,True
+Software Development,11305.3,52798.0,1.0,3.11,3.49,3.88,4.25,,,,,,True,True,False

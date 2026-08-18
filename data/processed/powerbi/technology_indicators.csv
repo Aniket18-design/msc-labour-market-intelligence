@@ -1,0 +1,48 @@
+Skill_Category,Workplace Example,Occupation_Count,Hot_Technology,In_Demand,Technology_Status,Indicator_Score
+AI,Artificial intelligence software,1,0,0,Neither,0
+AI,PyTorch,4,1,1,Hot + In Demand,2
+AI,TensorFlow,5,1,1,Hot + In Demand,2
+Cybersecurity,CyberArk,2,0,0,Neither,0
+Cybersecurity,Database security software,2,0,0,Neither,0
+Cybersecurity,Firewall software,20,0,1,In Demand,1
+Cybersecurity,IBM QRadar SIEM,4,0,0,Neither,0
+Cybersecurity,IBM Security Network Intrusion Prevention System,1,0,0,Neither,0
+Cybersecurity,Internet Protocol Security IPSEC,1,0,0,Neither,0
+Cybersecurity,Intrusion prevention system IPS,5,0,0,Neither,0
+Cybersecurity,Juniper Networks NetScreen-Security Manager,2,0,0,Neither,0
+Cybersecurity,McAfee Enterprise Security Manager,1,0,0,Neither,0
+Cybersecurity,Network intrusion prevention systems NIPS,6,0,0,Neither,0
+Cybersecurity,Network security auditing software,1,0,0,Neither,0
+Cybersecurity,NortonLifeLock cybersecurity software,37,0,0,Neither,0
+Cybersecurity,Penetration testing software,2,0,0,Neither,0
+Cybersecurity,Security assertion markup language SAML,5,0,0,Neither,0
+Cybersecurity,Security incident management software,4,0,0,Neither,0
+Cybersecurity,Security risk assessment software,1,0,0,Neither,0
+Cybersecurity,Security testing software,3,0,0,Neither,0
+Data Analytics,Bing for Power BI,1,0,0,Neither,0
+Data Analytics,Data Recovery Software SQL Server Data Recovery,1,0,0,Neither,0
+Data Analytics,Data analysis software,5,0,0,Neither,0
+Data Analytics,EpiData Analysis,1,0,0,Neither,0
+Data Analytics,European Southern Observatory Munich Image Data Analysis System ESO-MIDAS,1,0,0,Neither,0
+Data Analytics,Micosoft SQL Server Analysis Services SSAS,2,0,0,Neither,0
+Data Analytics,Microsoft Power BI,25,1,1,Hot + In Demand,2
+Data Analytics,Microsoft SQL Server,94,1,1,Hot + In Demand,2
+Data Analytics,Microsoft SQL Server Compact,1,0,0,Neither,0
+Data Analytics,Microsoft SQL Server Integration Services SSIS,19,1,1,Hot + In Demand,2
+Data Analytics,Microsoft SQL Server Reporting Services SSRS,33,1,0,Hot Technology,1
+Data Analytics,Microsoft transact-structural query language T-SQL,2,0,0,Neither,0
+Data Analytics,MySQL,50,1,1,Hot + In Demand,2
+Data Analytics,NoSQL,30,1,1,Hot + In Demand,2
+Data Analytics,Oracle PL/SQL,24,1,1,Hot + In Demand,2
+Data Analytics,Oracle SQL Developer,6,1,0,Hot Technology,1
+Data Analytics,PostgreSQL,31,1,1,Hot + In Demand,2
+Data Analytics,Python,132,1,1,Hot + In Demand,2
+Data Analytics,Python Experimental Economics Toolkit PEET,1,0,0,Neither,0
+Data Analytics,Python Tools for Visual Studio (PTVS),1,0,0,Neither,0
+Data Analytics,Redgate SQL Server,2,0,0,Neither,0
+Data Analytics,Roche 454 Life Sciences GS Data Analysis,1,0,0,Neither,0
+Data Analytics,SQLite,1,0,0,Neither,0
+Data Analytics,Structure query language SQL,21,0,0,Neither,0
+Data Analytics,Structured query language SQL,151,1,1,Hot + In Demand,2
+Data Analytics,Tableau,73,1,1,Hot + In Demand,2
+Data Analytics,Transact-SQL,19,1,1,Hot + In Demand,2
