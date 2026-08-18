@@ -2,3 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+data/raw/
+data/processed/ashe_city/
